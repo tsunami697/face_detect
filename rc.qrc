@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>face_logo.bmp</file>
+        <file>face_wait.bmp</file>
+    </qresource>
+</RCC>

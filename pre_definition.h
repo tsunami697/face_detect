@@ -1,0 +1,4 @@
+#ifndef PRE_DEFINITION_H
+#define PRE_DEFINITION_H
+
+#endif // PRE_DEFINITION_H
